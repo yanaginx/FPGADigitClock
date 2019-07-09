@@ -10,7 +10,7 @@
 
 • 60 Hz ac power line frequency is also used.
 
-Result:
+# Result:
 
 – Clock.v: For verilogHDL code.
 
